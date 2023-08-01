@@ -27,6 +27,8 @@
 
 ![Logo](https://img.freepik.com/free-vector/gradient-stock-market-concept_23-2149166929.jpg?w=1380&t=st=1690864999~exp=1690865599~hmac=9560af55f1bc856f1f8f0c34bc9923f5edd97ee1beffa21ddb37361180c50229)
 
+### Descrição do projeto 
+
 ## Parte 1 - Processamento de linguagem natural (NLP)
 
 O projeto de análise de texto com processamento de linguagem natural (NLP) é uma iniciativa inovadora que tem como objetivo explorar e utilizar avançadas técnicas de NLP para compreender, interpretar e extrair informações valiosas a partir de textos diversos. Com a crescente quantidade de dados não estruturados disponíveis na internet, a capacidade de analisar e tirar insights significativos desses dados se tornou crucial em diversos setores, incluindo pesquisa, negócios, saúde, entretenimento e muito mais. Neste projeto, utilizamos as mais recentes ferramentas e algoritmos de processamento de linguagem natural para processar textos em diferentes idiomas, incluindo análise de sentimento, classificação de tópicos, extração de entidades, resumo automático e tradução automática. Além disso, buscamos aperfeiçoar a capacidade de nossa análise em lidar com contextos complexos e ambíguos, o que é especialmente desafiador em textos informais e linguagem coloquial.
